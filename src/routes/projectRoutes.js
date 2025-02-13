@@ -1,9 +1,9 @@
 const express = require('express');
-const { getProjectsController } = require('../controllers/projectController'); // Asegúrate de que este nombre coincide
+const { getProjectsController } = require('../controllers/projectController');
 
 const router = express.Router();
 
-router.get('/projects', getProjectsController); // Asegúrate de usar el nombre correcto
+router.get('/projects', getProjectsController); 
 
 module.exports = router;
 
