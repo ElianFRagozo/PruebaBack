@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jest coverage and test reports
+coverage/
+test-results/
+
+# Database files (if any local DBs are used)
+*.sqlite
+*.sqlite-journal
+/data/db/
+
+# Build and deployment
+dist/
+build/
+.DS_Store
+
+# Misc
+.vscode/
+.idea/
+*.swp
+*.swo
