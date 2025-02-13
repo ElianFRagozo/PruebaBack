@@ -16,7 +16,7 @@ Este proyecto es una API desarrollada con **Node.js**, **Express**, y **MongoDB*
 ## 📦 Instalación y Configuración
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/ElianFRagozo/PruebaBack.git
    cd tu-repositorio
    ```
 2. Instalar dependencias:
